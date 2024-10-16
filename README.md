@@ -2,7 +2,7 @@
 # Reg no: 212221240027
 
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 
+# Date: 30 / 9 / 24
 
 
 
