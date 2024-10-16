@@ -1,8 +1,8 @@
-# Developer Name : Manoj M
-# Reg no: 212221240027
-
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 30 / 9 / 24
+
+## Developer Name : Manoj M
+## Reg no: 212221240027
+## Date: 30 / 9 / 24
 
 
 
